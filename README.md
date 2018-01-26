@@ -10,10 +10,10 @@ This is the main course site for COLL 199: Trinity Portfoio Program. Still a lit
 **Instructor**
 
 Jason B. Jones<br>
-**Phone**: (405) 325-2960<br>
-**E-mail**: a.croom (d0t) ou.edu<br>
-**Twitter**: <a href="http://twitter.com/acroom" target="blank">@acroom</a><br>
-**Office hours**: Please email me if you would like to meet either face-to-face or online!
+**Phone**: 860.297.2454<br>
+**E-mail**: jason.jones (at) trincoll.edu<br>
+**Twitter**: <a href="http://twitter.com/jbj" target="blank">@jbj</a><br>
+**Office hours**: M, F 8.15-9am, or by appointment. (I'm around a lot.)
 
 ## Course Description: 
 
