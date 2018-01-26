@@ -44,20 +44,20 @@ If you need, or suspect that you need, an academic accommodation on the basis of
 ## High-Level Schedule
 
 	
-1/31 or 2/1		Digital identity; a Domain of One's Own; Portfolios
-2/7 or 2/8		Liberal arts & the job market: fears, fantasies, realities
-2/14 or 2/15		NO CLASS: Douglass Day
-2/21 or 2/22		What Is a Domain
-2/28 or 3/1		Understanding the Web
-3/7 or 3/8		NO CLASS: FemBot Wikipedia Edit-a-thon
-3/14 or 3/15		NO CLASS: Spring Break
-3/21 or 3/22		Copyright, Fair Use, Creative Commons
-3/28 or 3/29		Data Ownership and Usage
-4/4 or 4/5		Representation	
-4/11 or 4/6		Style
-4/18 or 4/19		Workshop
-4/25 or 4/26		Workshop
-5/11			All work needs to be finished by 11.59PM on this date
+1/31 or 2/1		Digital identity; a Domain of One's Own; Portfolios <br />
+2/7 or 2/8		Liberal arts & the job market: fears, fantasies, realities<br />
+2/14 or 2/15		NO CLASS: Douglass Day<br />
+2/21 or 2/22		What Is a Domain<br />
+2/28 or 3/1		Understanding the Web<br />
+3/7 or 3/8		NO CLASS: FemBot Wikipedia Edit-a-thon<br />
+3/14 or 3/15		NO CLASS: Spring Break<br />
+3/21 or 3/22		Copyright, Fair Use, Creative Commons<br />
+3/28 or 3/29		Data Ownership and Usage<br />
+4/4 or 4/5		Representation	<br />
+4/11 or 4/6		Style<br />
+4/18 or 4/19		Workshop<br />
+4/25 or 4/26		Workshop<br />
+5/11			All work needs to be finished by 11.59PM on this date<br />
 
 
 
