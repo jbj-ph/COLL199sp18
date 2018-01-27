@@ -37,6 +37,29 @@ If you need, or suspect that you need, an academic accommodation on the basis of
 3.	Review process: 20%
 4.	Peer evaluation: 10%
 
+# Participation
+
+We should be able to have lively class discussions and workshops. I've also assigned some very light reading each week. For the linked essays, please leave one comment in our Hypothes.is group, and respond to someone else's comment. (One comment and one reply per week, not per essay, is fine.) 
+
+Here's how to get Hypothes.is set up:
+
+One of the things we'll be using this semester is a tool called Hypothes.is, which is a tool allowing anyone to add comments to, or highlight, any website, and to share those comments with others.
+
+We'll go over how to do this in class, but you'll need a link in the instructions below.
+
+To set up hypothes.is
+
+1. Go to https://hypothes.is 
+
+2. Click one of the Get Started buttons
+
+3. Follow the on-screen instructions to set up for an account and, if you have your own laptop with you, install the bookmarklet on a browser you use.
+
+Once you have an account, please follow this link to join the hypothes.is group for our class: [Look in [Moodle](https://moodle.trincoll.edu/mod/page/view.php?id=309598) or email JBJ for the link]
+
+There are no more steps! For any of the readings we'll do for class, please comment at least once and reply to someone else's comment. 
+
+
 
 
 
@@ -60,7 +83,9 @@ If you need, or suspect that you need, an academic accommodation on the basis of
 5/11			All work needs to be finished by 11.59PM on this date<br />
 
 
+## More Detailed Schedule + Assignments
 
+1/31 or 2/1		Please read [How Facebook Figures Out Everyone You've Ever met](https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691) and this article on ["13 Right Now: This Is What It Is like to Grow Up in an Age of Likes, LOLs, and Longing](http://www.washingtonpost.com/sf/style/wp/2016/05/25/2016/05/25/13-right-now-this-is-what-its-like-to-grow-up-in-the-age-of-likes-lols-and-longing/). If you have a minute, you might also listen to this podcast episode, in which [Reply All tries to figure out why everyone thinks Facebook is spying on us with our microphones](https://gimletmedia.com/episode/109-facebook-spying/). For the two posts, please use Hypothes.is (explained above) to leave at least one comment, and to reply to someone else's.
 
 
 
