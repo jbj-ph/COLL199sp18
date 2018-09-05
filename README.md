@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# COLL 199 Trinity Portfolio Program | Spring 2018
+# COLL 199 Trinity Portfolio Program | Fall 2019
 
 This is the main course site for COLL 199: Trinity Portfoio Program. Still a little in progress.
 
@@ -13,7 +13,7 @@ Jason B. Jones<br>
 **Phone**: 860.297.2454<br>
 **E-mail**: jason.jones (at) trincoll.edu<br>
 **Twitter**: <a href="http://twitter.com/jbj" target="blank">@jbj</a><br>
-**Office hours**: M, F 8.15-9am, or by appointment. (I'm around a lot.)
+**Office hours**: M, F 8.15-9am, or <a href="https://outlook.office365.com/owa/calendar/JasonBJones@trincoll.onmicrosoft.com/bookings/">by appointment</a>. (I'm around a lot.)
 
 ## Course Description: 
 
@@ -21,7 +21,7 @@ Creating a Trinity Portfolio is a great way to reflect on your academic accompli
 
 ## Meeting Schedule: 
 
-The course meets once a week for 45-50 minutes. But, since it was listed as TBA, you have a couple of options. Wednesday from 12-12.50 or Thursday from 8-8.50.  You do not have to come to both!  The content will be exactly the same!! But I do need to see you each week. (If neither of these work in your schedule, don't panic-just get in touch and we'll work it out.) Class always meets in LITC 182, the Digital Scholarship Studio (the new glass-enclosed classroom right above Peter B's).
+The course meets once a week for 45-50 minutes.  Class always meets in LITC A48, the Phelan Lab (the new glass-enclosed classroom right above Peter B's).
 
 ## Technology: 
 
@@ -29,7 +29,7 @@ You need to have a device that can access the web at every class session. Ideall
 
 ## Academic Accommodations:
 
-If you need, or suspect that you need, an academic accommodation on the basis of a disability, please contact Lori Clapis in Student Accessibility Services at either lori.clapis@trincoll.edu or 860.297.4025 (or just stop downstairs!). 
+If you need, or suspect that you need, an academic accommodation on the basis of a disability, please contact Lori Clapis in Student Accessibility Services at either lori.clapis@trincoll.edu or 860.297.4025 (or just stop around the corner!). 
 
 ## Particulars:
 1.	Participation, in-class and online: 10%
@@ -67,25 +67,26 @@ There are no more steps! For any of the readings we'll do for class, please comm
 ## High-Level Schedule
 
 	
-1/31 or 2/1		Digital identity; a Domain of One's Own; Portfolios <br />
-2/7 or 2/8		Liberal arts & the job market: fears, fantasies, realities<br />
-2/14 or 2/15		NO CLASS: Douglass Day<br />
-2/21 or 2/22		What Is a Domain<br />
-2/28 or 3/1		Understanding the Web<br />
-3/7 or 3/8		NO CLASS: FemBot Wikipedia Edit-a-thon<br />
-3/14 or 3/15		NO CLASS: Spring Break<br />
-3/21 or 3/22		Copyright, Fair Use, Creative Commons<br />
-3/28 or 3/29		Data Ownership and Usage<br />
-4/4 or 4/5		Representation	<br />
-4/11 or 4/6		Style<br />
-4/18 or 4/19		Workshop<br />
-4/25 or 4/26		Workshop<br />
-5/11			All work needs to be finished by 11.59PM on this date<br />
+9/5			Introductions
+9/12			Digital identity; a Domain of One's Own; Portfolios <br />
+9/19			Liberal arts & the job market: fears, fantasies, realities<br />
+9/26			What Is a Domain<br />
+10/3			Understanding the Web<br />
+10/10			Copyright, Fair Use, Creative Commons<br />
+10/17			Data Ownership and Usage<br />
+10/24			Representation	<br />
+10/31			Style<br />
+11/7			Workshop<br />
+11/14			Workshop<br />
+11/21			Workshop<br />
+11/28			NO CLASS: Thanksgiving<br />
+12/5			Workshop<br />
+12/19			All work needs to be finished by 11.59PM on this date<br />
 
 
 ## More Detailed Schedule + Assignments
 
-1/31 or 2/1		Please read [How Facebook Figures Out Everyone You've Ever met](https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691) and this article on ["13 Right Now: This Is What It Is like to Grow Up in an Age of Likes, LOLs, and Longing](http://www.washingtonpost.com/sf/style/wp/2016/05/25/2016/05/25/13-right-now-this-is-what-its-like-to-grow-up-in-the-age-of-likes-lols-and-longing/). If you have a minute, you might also listen to this podcast episode, in which [Reply All tries to figure out why everyone thinks Facebook is spying on us with our microphones](https://gimletmedia.com/episode/109-facebook-spying/). For the two posts, please use Hypothes.is (explained above) to leave at least one comment, and to reply to someone else's.
+9/12		Please read [How Facebook Figures Out Everyone You've Ever met](https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691) and this article on ["13 Right Now: This Is What It Is like to Grow Up in an Age of Likes, LOLs, and Longing](http://www.washingtonpost.com/sf/style/wp/2016/05/25/2016/05/25/13-right-now-this-is-what-its-like-to-grow-up-in-the-age-of-likes-lols-and-longing/). If you have a minute, you might also listen to this podcast episode, in which [Reply All tries to figure out why everyone thinks Facebook is spying on us with our microphones](https://gimletmedia.com/episode/109-facebook-spying/). For the two posts, please use Hypothes.is (explained above) to leave at least one comment, and to reply to someone else's.
 
 
 
