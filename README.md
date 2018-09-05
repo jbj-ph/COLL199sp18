@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# COLL 199 Trinity Portfolio Program | Fall 2019
+# COLL 199 Trinity Portfolio Program | Fall 2018
 
 This is the main course site for COLL 199: Trinity Portfoio Program. Still a little in progress.
 
